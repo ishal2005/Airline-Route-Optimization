@@ -20,7 +20,9 @@ Python **Tkinter GUI** application for **airline route optimization** using AI s
 -  Calculates **total path cost**  
 -  Works on any small graph of airports & routes  
 
----
+##  Example Output
+![Output Screenshot](output.PNG)
+
 
 ##  How to Run
 
